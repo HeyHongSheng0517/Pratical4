@@ -16,7 +16,7 @@ public class Pratical4SmallModule {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.err.println("Jie Tan");
+        System.out.println("Jie Tan");
     }
     
 }
